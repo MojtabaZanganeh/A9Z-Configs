@@ -1,4 +1,4 @@
-1vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.100:3237?security=none&encryption=none&headerType=none&type=tcp#https%3A%2F%2Ft.me%2FShadowsocksM
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.100:3237?security=none&encryption=none&headerType=none&type=tcp#https%3A%2F%2Ft.me%2FShadowsocksM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#https%3A%2F%2Ft.me%2FShadowsocksM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#https%3A%2F%2Ft.me%2FShadowsocksM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#%40Hope_Net
